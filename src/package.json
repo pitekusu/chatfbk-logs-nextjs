@@ -1,0 +1,11 @@
+{
+  "name": "sandpack-project",
+  "main": "/index.js",
+  "dependencies": {
+    "@nextui-org/react": "latest",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {}
+}
